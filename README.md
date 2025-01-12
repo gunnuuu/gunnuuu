@@ -35,7 +35,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://https://pkunwoo6593.tistory.com/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:pkunwoo6593@gmail.com">
     <img
