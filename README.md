@@ -1,10 +1,3 @@
-# gunnuuu
-
-<!--타이틀 부분-->
-<div align="center">
-  Dev.gunnuuu
-</div>
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
