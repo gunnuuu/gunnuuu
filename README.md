@@ -5,7 +5,7 @@
 <img src='https://img.shields.io/badge/JAVA-red?style=for-the-badge&labelColor=white'>
 <img src='https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon%20web%20service&labelColor=white'>
 <img src='https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&labelColor=white'>
-<img src='https://img.shields.io/badge/Flutter-%234479A1?style=for-the-badge&labelColor=blue'>
+<img src='https://img.shields.io/badge/Flutter-%234479A1?style=for-the-badge&labelColor=skyblue'>
   
 </div>
 <h3 align="center">🛠 Tools 🛠</h3>
